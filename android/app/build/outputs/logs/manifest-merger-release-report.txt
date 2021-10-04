@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:document_scanner] /Users/admin/Developer/scanner_crash_test/build/document_scanner/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Developer/scanner_crash_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /Users/admin/Developer/scanner_crash_test/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:add_2_calendar] /Users/admin/Developer/scanner_crash_test/build/add_2_calendar/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.eliasteeny:opencv_android_module:3.1.0-fix3] /Users/admin/.gradle/caches/transforms-2/files-2.1/0b24d0f8ec484a1461e884310457df92/jetified-opencv_android_module-3.1.0-fix3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:3:5-64
+MERGED from [:document_scanner] /Users/admin/Developer/scanner_crash_test/build/document_scanner/intermediates/library_manifest/release/AndroidManifest.xml:7:5-65
+MERGED from [:document_scanner] /Users/admin/Developer/scanner_crash_test/build/document_scanner/intermediates/library_manifest/release/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:3:22-62
+application
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:4:5-41:19
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:5:9-43
+	android:icon
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:6:9-43
+activity#com.example.scanner_crash_test.MainActivity
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:7:9-35:20
+	android:launchMode
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:12:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:13:13-55
+	android:configChanges
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:10:13-47
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:18:13-21:17
+	android:resource
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:20:15-52
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:19:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:29:15-61
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:28:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:33:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:38:9-40:33
+	android:value
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:40:13-30
+	android:name
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:39:13-44
+uses-sdk
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+MERGED from [:document_scanner] /Users/admin/Developer/scanner_crash_test/build/document_scanner/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:document_scanner] /Users/admin/Developer/scanner_crash_test/build/document_scanner/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Developer/scanner_crash_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/admin/Developer/scanner_crash_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/admin/Developer/scanner_crash_test/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/admin/Developer/scanner_crash_test/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:add_2_calendar] /Users/admin/Developer/scanner_crash_test/build/add_2_calendar/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:add_2_calendar] /Users/admin/Developer/scanner_crash_test/build/add_2_calendar/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/admin/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.opencv has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.opencv has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/admin/Developer/scanner_crash_test/android/app/src/main/AndroidManifest.xml:1:1-42:12 reason: org.opencv requested WRITE_EXTERNAL_STORAGE
